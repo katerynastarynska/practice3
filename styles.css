@@ -1,0 +1,31 @@
+body {
+  background-image: url(./images/background1.jpg);
+}
+.heading-primary {
+  font-size: 80px;
+  font-family: "Ms Madi", cursive;
+  margin-top: 100px;
+  text-align: center;
+}
+.heading-secondary {
+    font-size: 50px;
+    font-weight: bold;
+    font-family: "Ms Madi", cursive;
+    margin-top: 40px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+.heading-text {
+    font-size: 20px;
+    font-weight: 400;
+    font-family: 'Inter', sans-serif;
+    text-align: center;
+}
+.card-title {
+    font-family: "Ms Madi", cursive;
+font-size: 35px;
+font-weight: bold;
+}
+.card-text {
+    font-family: 'Inter', sans-serif;
+}
